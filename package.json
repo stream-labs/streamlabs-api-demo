@@ -1,0 +1,17 @@
+{
+  "name": "streamlabs-api-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Karl Jakober",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "dotenv": "^6.1.0",
+    "express": "^4.16.4",
+    "sqlite3": "^4.0.4"
+  }
+}
